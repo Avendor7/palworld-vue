@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // Define the API endpoint URL
-const apiUrl = 'http://192.168.4.210:8212'
+const apiUrl = 'http://100.100.47.33:8212/v1/api/players'
 
 // Define the base configuration for Axios
 const instance = axios.create({
