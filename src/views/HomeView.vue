@@ -8,7 +8,6 @@
 
 import axios from 'axios';
 import { onMounted } from 'vue';
-import cors from 'cors';
 
 // Define the API endpoint URL
 const apiUrl = 'http://192.168.5.210:8212/v1/api'
